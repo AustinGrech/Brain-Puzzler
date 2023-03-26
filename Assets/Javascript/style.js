@@ -38,7 +38,7 @@ const addIn = [
     answer: 'quotes'
   },
   {
-    question: "A very useful tool to be used during development and debugging for printing content to the debugger is:",
+    question: "A very useful tool for use during development and debugging for printing content to the debugger is:",
     choices: ["Javascript", "terminal / bash", "for loops", "console log"],
     answer: "console log"
   }
